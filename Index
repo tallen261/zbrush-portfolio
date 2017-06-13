@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>3D Projects</title>
+	
+	<!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+	<!--Javascript-->
+	<script   src="https://code.jquery.com/jquery-1.12.3.min.js"   integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+
+	<!--CSS-->
+	<link rel="stylesheet" type="text/css" href="zbrush.css">
+
+</head>
+<body>
+	<div class="container">	
+		<div class="navbar">
+			<ul>
+				<li></li>
+			</ul>
+		</div>
+		
+		<div class="row" id="main_showcase">
+			<img src="http://via.placeholder.com/1200x250">
+			
+		</div>
+		
+		<div class="row">
+			<div class="col-md-12">
+				<div class="col-md-2" id="showcase">
+					<img src="http://via.placeholder.com/250x400">
+				</div>
+
+				<div class="col-md-2" id="showcase">
+					<img src="http://via.placeholder.com/250x400">
+				</div>
+
+				<div class="col-md-2" id="showcase">
+					<img src="http://via.placeholder.com/250x400">
+				</div>
+
+				<div class="col-md-2" id="showcase">
+					<img src="http://via.placeholder.com/250x400">
+				</div>
+
+				<div class="col-md-2" id="showcase">
+					<img src="http://via.placeholder.com/250x400">
+				</div>
+
+				<div class="col-md-2" id="showcase">
+					<img src="http://via.placeholder.com/250x400">
+				</div>
+				
+			</div>
+			
+		</div>
+
+		<div class="row" id="second_showcase">
+			<div class="col-md-12">
+				<div class="col-md-4" id="showcase2">
+					<img src="http://via.placeholder.com/400x150">
+					
+				</div>
+
+				<div class="col-md-4" id="showcase2">
+					<img src="http://via.placeholder.com/400x150">
+					
+				</div>
+
+				<div class="col-md-4" id="showcase2">
+					<img src="http://via.placeholder.com/400x150">
+					
+				</div>
+				
+			</div>
+			
+		</div>
+	</div>
+</body>
+</html>
