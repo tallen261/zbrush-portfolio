@@ -1,0 +1,21 @@
+#showcase {
+	overflow: hidden;
+}
+
+#showcase2 {
+	overflow: hidden;
+}
+
+#main_showcase {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+#second_showcase {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+body {
+	background: black;
+}
